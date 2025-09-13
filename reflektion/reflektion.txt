@@ -1,0 +1,5 @@
+Jag har viss erfarenhet av SW development sedan tidigare, men har nu lärt mig hur man tex använder Github på ett enklare sätt samt att jag tidigare inte använt VS code.
+För mig är DevOps att man kombinerar utveckling och drift/underhåll av tex appar för att snabbare kunna bygga, testa och sjösätta appar. För en vän skulle jag berätta att devops är ett arbetssätt där man automatiserar delar av utvecklingsprocessen för att få ut nya funktioner utan krångel.
+För mig känns jobb med molnet väldigt intressant, och att kunna jobba med tex filer som ligger i ett moln känns oerhört spännande.
+Att kunna jobba med uppgifter tillsammans men också enskilt för att leverera de funktioner man fått i uppgift att utveckla.
+Hittills under den här kursen har alla varit väldigt trevliga och samarbetat väldigt bra. Vi har en väldigt engagerad och kunnig lärare som på ett enkelt sätt förklarar ämnet i fråga. 
